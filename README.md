@@ -34,6 +34,8 @@ The crossover between design and programming has always been of interest to me, 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" /></a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" /></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/vqSX9kG.png" alt="mysql" width="60" height="60" /></a>
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/5CVRAAv.png" alt="mysql" width="60" height="60" /></a>
 <p></p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=abhishekgarfield&theme=react-dark&area=true)
